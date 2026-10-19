@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "319281485286",
+    "project_id": "sdn-ass-a6651",
+    "storage_bucket": "sdn-ass-a6651.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319281485286:android:d9f7d8a011ef6fdf22f227",
+        "android_client_info": {
+          "package_name": "com.chapterone.chapterone_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319281485286-4rmmbb4ptig220jgv9moeu8r4q6jup5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chapterone.chapterone_mobile",
+            "certificate_hash": "0748aafdd92491ddc12f6c9c7569fdecf0114eca"
+          }
+        },
+        {
+          "client_id": "319281485286-7uj4me7fs23juqlu7i3r43a8s77inbm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chapterone.chapterone_mobile",
+            "certificate_hash": "f4db2ec65c1ac67f5a557cfa031cceda1c5820d5"
+          }
+        },
+        {
+          "client_id": "319281485286-m5dkdhhubf0k1tm3h6t740bqogsgin1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBAja-RFydbU3jieNlxQukAoP-1-khw84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319281485286-m5dkdhhubf0k1tm3h6t740bqogsgin1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
